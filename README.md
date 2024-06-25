@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=minjeong%20Je&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=F7BE81&height=300&section=header&text=minjeong%20Je&fontColor=6E6E6E&fontSize=40" />
 
 <!--
 **minjeongJe/minjeongJe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
